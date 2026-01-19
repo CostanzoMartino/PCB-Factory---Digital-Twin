@@ -1,0 +1,1 @@
+In db folder there are the script for the scheme of each table. (DB needed)
