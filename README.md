@@ -51,5 +51,5 @@ The platform is structured into four layers:
 ---
 
 ## Author
-Costanzo Martino + [LinkedIn / GitHub ](https://www.linkedin.com/in/costanzomartino/)
+Costanzo Martino + [LinkedIn ](https://www.linkedin.com/in/costanzomartino/)
 
